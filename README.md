@@ -1,3 +1,8 @@
+*Disclaimer*
+
+> This is a specific react + typescript + react testing library project only for study proposes.
+
+
 # React: Sorting Articles  
 
 Create a basic article sorting application, as shown below. Some core functionalities have already been implemented, but the application is not complete. Application requirements are given below, and the finished application must pass all of the unit tests.
